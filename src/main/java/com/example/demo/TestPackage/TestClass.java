@@ -5,11 +5,6 @@ public class TestClass {
         System.out.println("hello world");
         System.out.println("test");
 
-        TestInterface testInterface = new TestInterface() {
-            @Override
-            public void test() {
 
-            }
-        };
     }
 }
